@@ -37,6 +37,8 @@ public class Day2Github2 {
        10 - git commit -m"YENI NUMARA VEYA YAZI YAZ"
        11 - git push
        hepsi bu kadar
+       
+       pul deneme
 
     */
     public static void main(String[] args) {
