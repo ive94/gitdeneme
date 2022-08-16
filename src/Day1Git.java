@@ -4,7 +4,7 @@ public class Day1Git {
         System.out.println("Git 1. Deneme");
         System.out.println("Hello 2. deneme");
         System.out.println("Hello 3. deneme");
-
+        System.out.println("Hello 4. deneme");
 
 
     }
